@@ -1,0 +1,47 @@
+.planet-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  background: none;
+  border: none;
+}
+
+.planet-name {
+  font-size: 40px;
+}
+
+.image-planet-Mercúrio {
+  width: 40px;
+}
+
+.image-planet-Vênus {
+  width: 90px;
+}
+
+.image-planet-Terra {
+  width: 125px;
+}
+
+.image-planet-Marte {
+  width: 110px;
+}
+
+.image-planet-Júpiter {
+  width: 200px;
+}
+
+.image-planet-Saturno {
+  width: 175px;
+}
+
+.image-planet-Urano {
+  width: 150px;
+}
+
+.image-planet-Netuno {
+  width: 160px;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&display=swap');
+
+.page-header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Josefin Sans';
+  padding: 30px 50px;
+  margin: 30px;
+  background-color: rgb(222, 222, 222, 0.2);
+  width: 900px;
+  border-radius: 10px;
+}
+
+.page-header-title {
+  font-size: 60px;
+  margin-right: 60px;
+}
+
+.page-header-subtitle {
+  font-size: 32px;
+  margin-left: 100px;
+}
